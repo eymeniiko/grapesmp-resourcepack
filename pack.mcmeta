@@ -1,0 +1,31 @@
+{
+    "pack": {
+        "pack_format": 34,
+        "description": [
+            "",
+            {
+                "text": "Grape SMP Doku paketi",
+                "bold": true,
+                "color": "#E54040"
+            },
+            {
+                "text": "\n"
+            },
+            {
+                "text": "GrapeSMP 1. Doku paketi içerikleri: rank ikonları ve grapesmp logosu.",
+                "color": "#E54040"
+            },
+            {
+                "text": "\n"
+            },
+            {
+                "text": "Created by ",
+                "color": "#f7d200"
+            },
+            {
+                "text": "GangsterLeo",
+                "color": "#4068E5"
+            }
+        ]
+    }
+}
